@@ -1,1 +1,1 @@
-# compress-file-RUST
+This is Rust file compressor project
